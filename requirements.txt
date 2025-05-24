@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+pyttsx3
+streamlit
+soundfile
+torchaudio
+torch
