@@ -7,5 +7,5 @@ keras
 pyttsx3
 streamlit
 soundfile
-torchaudio
 torch
+torchaudio --index-url https://download.pytorch.org/whl/cu118
